@@ -1,0 +1,164 @@
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\EntityFramework.dll
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.dll
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.dll
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Owin.dll
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebGrease.dll
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\EntityFramework.xml
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.xml
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.xml
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+c:\users\jopena\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Ahorcado.dll.config
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Ahorcado.dll
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Ahorcado.pdb
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\EntityFramework.dll
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Microsoft.Owin.dll
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.dll
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Owin.dll
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\WebGrease.dll
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\EntityFramework.xml
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Microsoft.Owin.xml
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.xml
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\obj\Debug\Ahorcado.dll
+F:\Developer\Programing\workspace\JalvisRepository\practiacasTrabajos\ahorcado\WebApplication1\WebApplication1\obj\Debug\Ahorcado.pdb

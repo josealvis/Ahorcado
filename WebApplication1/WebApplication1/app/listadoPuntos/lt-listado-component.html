@@ -1,0 +1,18 @@
+﻿
+<md-content>
+    <md-list flex>
+        <md-subheader class="md-no-sticky">puntuaciones</md-subheader>
+        <md-list-item class="md-3-line" ng-repeat="player in  vm.players " ng-click="null">
+            
+            <div class="md-list-item-text" layout="column">
+                <h2>{{ player.Puntuacion }}</h2>
+                <h3>{{  player.Nombre}}</h3>
+               
+            </div>
+        </md-list-item>
+        <md-divider></md-divider>
+        
+        
+    </md-list>
+</md-content>
+

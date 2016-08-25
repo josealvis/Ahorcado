@@ -1,0 +1,50 @@
+﻿<div layout-gt-sm="row" ng-hide="true">
+    <div><img height="300" width="300" src="{palabra.imgUrL}" /></div>
+</div>
+
+
+
+
+
+<div layout-gt-sm="row" ng-if="vm.player.lose ">
+    <div flex="100">
+        <h2>Has Perdido!!!</h2>
+        <lt-puntuacion puntuacion="vm.player.score"></lt-puntuacion>
+    </div>
+</div>
+
+<div layout-gt-sm="row" ng-if="!vm.player.lose ">
+
+
+    <div flex="40">
+        <h4>Puntuación : {{vm.player.score}}</h4>
+    </div>
+    <div flex="40">
+        <h4>Intentos fallidos : {{vm.player.intentos}} de 5</h4>
+    </div>
+
+
+</div>
+<div layout-gt-sm="row" ng-if="!vm.player.lose ">
+    <div flex="100">
+        <h3>palabra secreta</h3>
+        <h2>
+            <span ng-repeat="letra in   vm.palabra.letras track by $index">
+                {{letra+" "}}
+            </span>
+        </h2>
+    </div>
+</div>
+
+
+<div layout-gt-sm="row" ng-if="!vm.player.lose ">
+    <div flex="80">
+        <md-input-container class="md-block" flex-gt-sm>
+            <label>Letra</label>
+            <input ng-model="vm.letra">
+        </md-input-container>
+    </div>
+    <div flex="20">
+        <md-button class="md-raised md-primary" ng-click="vm.validar(vm.letra)">Enviar</md-button>
+    </div>
+</div>

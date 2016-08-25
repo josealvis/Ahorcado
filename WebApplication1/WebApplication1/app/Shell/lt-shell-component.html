@@ -1,0 +1,29 @@
+﻿
+<div layout="column">
+   
+
+ 
+    <div layout="row " layout-align="center">
+        <div flex="50">
+            <div ng-if="vm.pantallaSelected.juego"><lt-jugar></lt-jugar></div>
+            <div ng-if="vm.pantallaSelected.puntuacion"><lt-listado></lt-listado></div>
+        </div>
+        
+    </div>
+
+    <div layout="row" layout-align="center">
+        <div flex="50">
+
+           <md-button class="md-raised" ng-click="vm.SeleccionarPantalla('juego')">Jugar</md-button>
+           <md-button class="md-raised" ng-click="vm.SeleccionarPantalla('puntuacion')">Puntuación</md-button>    
+        </div>
+
+    </div>
+
+
+    
+       
+             
+        
+    
+</div>
